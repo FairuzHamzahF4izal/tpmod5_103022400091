@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
+﻿DataGeneric<string> data = new DataGeneric<string>("Fairuz");
+data.PrintData();
